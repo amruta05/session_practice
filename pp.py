@@ -1,2 +1,4 @@
 import streamlit as st
-st.title("Demo app")
+st.title("Simple addition calculator")
+def addition(a,b):
+  return a+b
