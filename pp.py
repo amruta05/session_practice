@@ -6,4 +6,3 @@ b = st.number_input("second")
 def addition(a,b):
   return a+b
 
-st.write('this is a : ',a)
